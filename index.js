@@ -55,3 +55,6 @@ app.get("/tabela", async (req, res) => {
 
 
 app.listen(process.env.PORT || 3000, () => console.log(`acesse o link http://localhost:3000`));
+
+// LINK DO PARANAUE
+// https://api-7-circuito-badbons-open.onrender.com/
