@@ -1,0 +1,23 @@
+{
+	"jogos": [
+		{
+			"nome1": "Lucas Araújo | Elaine Tibcherany", "set1_1": "0", "set2_1": "0", "set3_1": "0",
+			"nome2": "Matheus Lamas | Isabelle Feitosa", "set1_2": "0", "set2_2": "0", "set3_2": "0",
+			"sets": "0", "v": "0"
+		},
+
+
+		{
+			"nome1": "Rafael Pinheiral | Tatiana Calle", "set1_1": "0", "set2_1": "0", "set3_1": "0",
+			"nome2": "Lucas Araújo | Elaine Tibcherany", "set1_2": "0", "set2_2": "0", "set3_2": "0",
+			"sets": "0", "v": "0"
+		},
+
+
+		{
+			"nome1": "Matheus Lamas | Isabelle Feitosa", "set1_1": "0", "set2_1": "0", "set3_1": "0",
+			"nome2": "Rafael Pinheiral | Tatiana Calle", "set1_2": "0", "set2_2": "0", "set3_2": "0",
+			"sets": "0", "v": "0"
+		}
+	]
+}

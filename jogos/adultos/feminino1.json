@@ -1,0 +1,23 @@
+{
+	"jogos": [
+		{
+			"nome1": "Andréia dos Santos", "set1_1": "0", "set2_1": "0", "set3_1": "0",
+			"nome2": "Camila Castanho", "set1_2": "0", "set2_2": "0", "set3_2": "0",
+			"sets": "0", "v": "0"
+		},
+
+
+		{
+			"nome1": "Rosana Barbosa", "set1_1": "0", "set2_1": "0", "set3_1": "0",
+			"nome2": "Andréia dos Santos", "set1_2": "0", "set2_2": "0", "set3_2": "0",
+			"sets": "0", "v": "0"
+		},
+
+
+		{
+			"nome1": "Camila Castanho", "set1_1": "0", "set2_1": "0", "set3_1": "0",
+			"nome2": "Rosana Barbosa", "set1_2": "0", "set2_2": "0", "set3_2": "0",
+			"sets": "0", "v": "0"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"jogos": [
+		{
+			"nome1": "Elaine Tibcherany", "set1_1": "0", "set2_1": "0", "set3_1": "0",
+			"nome2": "Rosana R", "set1_2": "0", "set2_2": "0", "set3_2": "0",
+			"sets": "0", "v": "0"
+		},
+
+
+		{
+			"nome1": "Giovanna Aredes", "set1_1": "0", "set2_1": "0", "set3_1": "0",
+			"nome2": "Elaine Tibcherany", "set1_2": "0", "set2_2": "0", "set3_2": "0",
+			"sets": "0", "v": "0"
+		},
+
+
+		{
+			"nome1": "Rosana R", "set1_1": "0", "set2_1": "0", "set3_1": "0",
+			"nome2": "Giovanna Aredes", "set1_2": "0", "set2_2": "0", "set3_2": "0",
+			"sets": "0", "v": "0"
+		}
+	]
+}
