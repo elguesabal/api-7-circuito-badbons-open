@@ -1,7 +1,7 @@
 {
     "tabela": [
-		{ "nome": "Andréia dos Santos", "tj": "0", "v": "0", "d": "0", "vSet": "0" },
-		{ "nome": "Camila Castanho", "tj": "0", "v": "0", "d": "0", "vSet": "0" },
-		{ "nome": "Rosana Barbosa", "tj": "0", "v": "0", "d": "0", "vSet": "0" }
+		{ "nome": "Andréia dos Santos", "tj": "0", "v": "0", "d": "0", "vSet": "0", "pf": "0", "ps": "0" },
+		{ "nome": "Camila Castanho", "tj": "0", "v": "0", "d": "0", "vSet": "0", "pf": "0", "ps": "0" },
+		{ "nome": "Rosana Barbosa", "tj": "0", "v": "0", "d": "0", "vSet": "0", "pf": "0", "ps": "0" }
 	]
 }

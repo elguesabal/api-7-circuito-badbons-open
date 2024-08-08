@@ -1,0 +1,12 @@
+nome1     -> nome do primeiro atleta
+set1_1    -> pontos ganhos pelo atleta 1 no primeiro set
+set2_1    -> pontos ganhos pelo atleta 1 no segundo set
+set3_1    -> pontos ganhos pelo atleta 1 no terceiro set
+
+nome2     -> nome do primeiro atleta
+set1_2    -> pontos ganhos pelo atleta 2 no primeiro set
+set2_2    -> pontos ganhos pelo atleta 2 no segundo set
+set3_2    -> pontos ganhos pelo atleta 2 no terceiro set
+
+sets      -> numero de sets jogados na partida
+v         -> campo q recebe o vencedor (1 ou 2)

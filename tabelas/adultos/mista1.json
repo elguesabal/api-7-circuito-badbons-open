@@ -1,8 +1,8 @@
 {
 	"tabela": [
-		{ "nome": "Alexandre Camacho | Camila Castanho", "tj": "0", "v": "0", "d": "0", "vSet": "0" },
-		{ "nome": "Daniel Inocencio | Elisa Brito", "tj": "0", "v": "0", "d": "0", "vSet": "0" },
-		{ "nome": "Gustavo Ferreira | Giovanna Aredes", "tj": "0", "v": "0", "d": "0", "vSet": "0" },
-		{ "nome": "Leando Braga | Rosana Ferreira", "tj": "0", "v": "0", "d": "0", "vSet": "0" }
+		{ "nome": "Alexandre Camacho | Camila Castanho", "tj": "0", "v": "0", "d": "0", "vSet": "0", "pf": "0", "ps": "0" },
+		{ "nome": "Daniel Inocencio | Elisa Brito", "tj": "0", "v": "0", "d": "0", "vSet": "0", "pf": "0", "ps": "0" },
+		{ "nome": "Gustavo Ferreira | Giovanna Aredes", "tj": "0", "v": "0", "d": "0", "vSet": "0", "pf": "0", "ps": "0" },
+		{ "nome": "Leando Braga | Rosana Ferreira", "tj": "0", "v": "0", "d": "0", "vSet": "0", "pf": "0", "ps": "0" }
 	]
 }

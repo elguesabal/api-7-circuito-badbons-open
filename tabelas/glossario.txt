@@ -1,5 +1,7 @@
-nome -> nome do atleta
-tj   -> total de jogos disputados
-v    -> total de vitorias
-d    -> total de derrotas
-vSet   -> total de sets vencidos
+nome      -> nome do atleta
+tj        -> total de jogos disputados
+v         -> total de vitorias
+d         -> total de derrotas
+vSet      -> total de sets vencidos
+pf        -> pontos feitos
+ps        -> pontos sofridos
