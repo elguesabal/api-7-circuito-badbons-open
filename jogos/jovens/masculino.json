@@ -1,38 +1,76 @@
 {
-	"jogos": [
-		{
-			"nome1": "Gabriel Monteiro", "set1_1": "11", "set2_1": "21", "set3_1": "31",
-			"nome2": "Felipe Santos", "set1_2": "12", "set2_2": "22", "set3_2": "32",
-			"sets": "0", "v": "1"
-		},
-		{
-			"nome1": "João Felipe", "set1_1": "0", "set2_1": "0", "set3_1": "0",
-			"nome2": "Matheus Petry", "set1_2": "0", "set2_2": "0", "set3_2": "0",
-			"sets": "0", "v": "0"
-		},
-
-
-		{
-			"nome1": "Felipe Santos", "set1_1": "0", "set2_1": "0", "set3_1": "0",
-			"nome2": "João Felipe", "set1_2": "0", "set2_2": "0", "set3_2": "0",
-			"sets": "0", "v": "0"
-		},
-		{
-			"nome1": "Matheus Petry", "set1_1": "0", "set2_1": "0", "set3_1": "0",
-			"nome2": "Gabriel Monteiro", "set1_2": "0", "set2_2": "0", "set3_2": "0",
-			"sets": "0", "v": "0"
-		},
-
-
-		{
-			"nome1": "Matheus Petry", "set1_1": "0", "set2_1": "0", "set3_1": "0",
-			"nome2": "Felipe Santos", "set1_2": "0", "set2_2": "0", "set3_2": "0",
-			"sets": "0", "v": "0"
-		},
-		{
-			"nome1": "João Felipe", "set1_1": "0", "set2_1": "0", "set3_1": "0",
-			"nome2": "Gabriel Monteiro", "set1_2": "0", "set2_2": "0", "set3_2": "0",
-			"sets": "0", "v": "0"
-		}
-	]
+  "jogos": [
+    {
+      "nome1": "Gabriel Monteiro",
+      "set1_1": 21,
+      "set2_1": 21,
+      "set3_1": 0,
+      "nome2": "Felipe Santos",
+      "set1_2": 10,
+      "set2_2": 15,
+      "set3_2": 0,
+      "sets": 2,
+      "v": 1
+    },
+    {
+      "nome1": "João Felipe",
+      "set1_1": 21,
+      "set2_1": 5,
+      "set3_1": 21,
+      "nome2": "Matheus Petry",
+      "set1_2": 10,
+      "set2_2": 21,
+      "set3_2": 8,
+      "sets": 3,
+      "v": 1
+    },
+    {
+      "nome1": "Felipe Santos",
+      "set1_1": 0,
+      "set2_1": 0,
+      "set3_1": 0,
+      "nome2": "João Felipe",
+      "set1_2": 21,
+      "set2_2": 21,
+      "set3_2": 0,
+      "sets": 2,
+      "v": 2
+    },
+    {
+      "nome1": "Matheus Petry",
+      "set1_1": 1,
+      "set2_1": 1,
+      "set3_1": 0,
+      "nome2": "Gabriel Monteiro",
+      "set1_2": 0,
+      "set2_2": 0,
+      "set3_2": 0,
+      "sets": 2,
+      "v": 1
+    },
+    {
+      "nome1": "Matheus Petry",
+      "set1_1": 0,
+      "set2_1": 0,
+      "set3_1": 0,
+      "nome2": "Felipe Santos",
+      "set1_2": 0,
+      "set2_2": 0,
+      "set3_2": 0,
+      "sets": 0,
+      "v": 0
+    },
+    {
+      "nome1": "João Felipe",
+      "set1_1": 0,
+      "set2_1": 0,
+      "set3_1": 0,
+      "nome2": "Gabriel Monteiro",
+      "set1_2": 0,
+      "set2_2": 0,
+      "set3_2": 0,
+      "sets": 0,
+      "v": 0
+    }
+  ]
 }
