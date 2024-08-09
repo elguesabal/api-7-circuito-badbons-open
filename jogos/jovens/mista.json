@@ -1,23 +1,40 @@
 {
-	"jogos": [
-		{
-			"nome1": "Felipe Santos | Mariana Vitória", "set1_1": "0", "set2_1": "0", "set3_1": "0",
-			"nome2": "Gabriel Monteiro | Laryssa Victória", "set1_2": "0", "set2_2": "0", "set3_2": "0",
-			"sets": "0", "v": "0"
-		},
-
-
-		{
-			"nome1": "João Felipe | Lívia Ellen", "set1_1": "0", "set2_1": "0", "set3_1": "0",
-			"nome2": "Felipe Santos | Mariana Vitória", "set1_2": "0", "set2_2": "0", "set3_2": "0",
-			"sets": "0", "v": "0"
-		},
-
-
-		{
-			"nome1": "Gabriel Monteiro | Laryssa Victória", "set1_1": "0", "set2_1": "0", "set3_1": "0",
-			"nome2": "João Felipe | Lívia Ellen", "set1_2": "0", "set2_2": "0", "set3_2": "0",
-			"sets": "0", "v": "0"
-		}
-	]
+  "jogos": [
+    {
+      "nome1": "Felipe Santos | Mariana Vitória",
+      "set1_1": 0,
+      "set2_1": 0,
+      "set3_1": 0,
+      "nome2": "Gabriel Monteiro | Laryssa Victória",
+      "set1_2": 0,
+      "set2_2": 0,
+      "set3_2": 0,
+      "sets": 0,
+      "v": 0
+    },
+    {
+      "nome1": "João Felipe | Lívia Ellen",
+      "set1_1": 0,
+      "set2_1": 0,
+      "set3_1": 0,
+      "nome2": "Felipe Santos | Mariana Vitória",
+      "set1_2": 0,
+      "set2_2": 0,
+      "set3_2": 0,
+      "sets": 0,
+      "v": 0
+    },
+    {
+      "nome1": "Gabriel Monteiro | Laryssa Victória",
+      "set1_1": 0,
+      "set2_1": 0,
+      "set3_1": 0,
+      "nome2": "João Felipe | Lívia Ellen",
+      "set1_2": 0,
+      "set2_2": 0,
+      "set3_2": 0,
+      "sets": 0,
+      "v": 0
+    }
+  ]
 }

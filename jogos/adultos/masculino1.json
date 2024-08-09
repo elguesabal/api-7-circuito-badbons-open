@@ -1,23 +1,40 @@
 {
-	"jogos": [
-		{
-			"nome1": "Alexandre Camacho", "set1_1": "0", "set2_1": "0", "set3_1": "0",
-			"nome2": "Daniel Inocencio", "set1_2": "0", "set2_2": "0", "set3_2": "0",
-			"sets": "0", "v": "0"
-		},
-
-
-		{
-			"nome1": "Gustavo Ferreira", "set1_1": "0", "set2_1": "0", "set3_1": "0",
-			"nome2": "Alexandre Camacho", "set1_2": "0", "set2_2": "0", "set3_2": "0",
-			"sets": "0", "v": "0"
-		},
-
-
-		{
-			"nome1": "Daniel Inocencio", "set1_1": "0", "set2_1": "0", "set3_1": "0",
-			"nome2": "Gustavo Ferreira", "set1_2": "0", "set2_2": "0", "set3_2": "0",
-			"sets": "0", "v": "0"
-		}
-	]
+  "jogos": [
+    {
+      "nome1": "Alexandre Camacho",
+      "set1_1": 0,
+      "set2_1": 0,
+      "set3_1": 0,
+      "nome2": "Daniel Inocencio",
+      "set1_2": 0,
+      "set2_2": 0,
+      "set3_2": 0,
+      "sets": 0,
+      "v": 0
+    },
+    {
+      "nome1": "Gustavo Ferreira",
+      "set1_1": 0,
+      "set2_1": 0,
+      "set3_1": 0,
+      "nome2": "Alexandre Camacho",
+      "set1_2": 0,
+      "set2_2": 0,
+      "set3_2": 0,
+      "sets": 0,
+      "v": 0
+    },
+    {
+      "nome1": "Daniel Inocencio",
+      "set1_1": 0,
+      "set2_1": 0,
+      "set3_1": 0,
+      "nome2": "Gustavo Ferreira",
+      "set1_2": 0,
+      "set2_2": 0,
+      "set3_2": 0,
+      "sets": 0,
+      "v": 0
+    }
+  ]
 }

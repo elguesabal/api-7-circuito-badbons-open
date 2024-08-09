@@ -1,7 +1,31 @@
 {
-    "tabela": [
-		{ "nome": "Alexandre Camacho", "tj": "0", "v": "0", "d": "0", "vSet": "0", "pf": "0", "ps": "0" },
-		{ "nome": "Daniel Inocencio", "tj": "0", "v": "0", "d": "0", "vSet": "0", "pf": "0", "ps": "0" },
-		{ "nome": "Gustavo Ferreira", "tj": "0", "v": "0", "d": "0", "vSet": "0", "pf": "0", "ps": "0" }
-	]
+  "tabela": [
+    {
+      "nome": "Alexandre Camacho",
+      "tj": 0,
+      "v": 0,
+      "d": 0,
+      "vSet": 0,
+      "pf": 0,
+      "ps": 0
+    },
+    {
+      "nome": "Daniel Inocencio",
+      "tj": 0,
+      "v": 0,
+      "d": 0,
+      "vSet": 0,
+      "pf": 0,
+      "ps": 0
+    },
+    {
+      "nome": "Gustavo Ferreira",
+      "tj": 0,
+      "v": 0,
+      "d": 0,
+      "vSet": 0,
+      "pf": 0,
+      "ps": 0
+    }
+  ]
 }
