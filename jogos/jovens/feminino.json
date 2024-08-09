@@ -1,23 +1,40 @@
 {
-	"jogos": [
-		{
-			"nome1": "Laryssa Victória", "set1_1": "0", "set2_1": "0", "set3_1": "0",
-			"nome2": "Lívia Ellen", "set1_2": "0", "set2_2": "0", "set3_2": "0",
-			"sets": "0", "v": "0"
-		},
-
-
-		{
-			"nome1": "Blenda Nobre", "set1_1": "0", "set2_1": "0", "set3_1": "0",
-			"nome2": "Laryssa Victória", "set1_2": "0", "set2_2": "0", "set3_2": "0",
-			"sets": "0", "v": "0"
-		},
-
-
-		{
-			"nome1": "Lívia Ellen", "set1_1": "0", "set2_1": "0", "set3_1": "0",
-			"nome2": "Blenda Nobre", "set1_2": "0", "set2_2": "0", "set3_2": "0",
-			"sets": "0", "v": "0"
-		}
-	]
+  "jogos": [
+    {
+      "nome1": "Laryssa Victória",
+      "set1_1": 0,
+      "set2_1": 0,
+      "set3_1": 0,
+      "nome2": "Lívia Ellen",
+      "set1_2": 0,
+      "set2_2": 0,
+      "set3_2": 0,
+      "sets": 0,
+      "v": 0
+    },
+    {
+      "nome1": "Blenda Nobre",
+      "set1_1": 0,
+      "set2_1": 0,
+      "set3_1": 0,
+      "nome2": "Laryssa Victória",
+      "set1_2": 0,
+      "set2_2": 0,
+      "set3_2": 0,
+      "sets": 0,
+      "v": 0
+    },
+    {
+      "nome1": "Lívia Ellen",
+      "set1_1": 0,
+      "set2_1": 0,
+      "set3_1": 0,
+      "nome2": "Blenda Nobre",
+      "set1_2": 0,
+      "set2_2": 0,
+      "set3_2": 0,
+      "sets": 0,
+      "v": 0
+    }
+  ]
 }

@@ -1,7 +1,31 @@
 {
-    "tabela": [
-		{ "nome": "Laryssa Victória", "tj": "0", "v": "0", "d": "0", "vSet": "0", "pf": "0", "ps": "0" },
-		{ "nome": "Lívia Ellen", "tj": "0", "v": "0", "d": "0", "vSet": "0", "pf": "0", "ps": "0" },
-		{ "nome": "Blenda Nobre", "tj": "0", "v": "0", "d": "0", "vSet": "0", "pf": "0", "ps": "0" }
-	]
+  "tabela": [
+    {
+      "nome": "Laryssa Victória",
+      "tj": 0,
+      "v": 0,
+      "d": 0,
+      "vSet": 0,
+      "pf": 0,
+      "ps": 0
+    },
+    {
+      "nome": "Lívia Ellen",
+      "tj": 0,
+      "v": 0,
+      "d": 0,
+      "vSet": 0,
+      "pf": 0,
+      "ps": 0
+    },
+    {
+      "nome": "Blenda Nobre",
+      "tj": 0,
+      "v": 0,
+      "d": 0,
+      "vSet": 0,
+      "pf": 0,
+      "ps": 0
+    }
+  ]
 }

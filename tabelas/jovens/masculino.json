@@ -2,39 +2,39 @@
   "tabela": [
     {
       "nome": "Felipe Santos",
-      "tj": 2,
+      "tj": 0,
       "v": 0,
-      "d": 2,
+      "d": 0,
       "vSet": 0,
-      "pf": 25,
-      "ps": 84
+      "pf": 0,
+      "ps": 0
     },
     {
       "nome": "Gabriel Monteiro",
-      "tj": 2,
-      "v": 1,
-      "d": 1,
-      "vSet": 2,
-      "pf": 42,
-      "ps": 27
+      "tj": 0,
+      "v": 0,
+      "d": 0,
+      "vSet": 0,
+      "pf": 0,
+      "ps": 0
     },
     {
       "nome": "João Felipe",
-      "tj": 2,
-      "v": 2,
+      "tj": 0,
+      "v": 0,
       "d": 0,
-      "vSet": 4,
-      "pf": 89,
-      "ps": 39
+      "vSet": 0,
+      "pf": 0,
+      "ps": 0
     },
     {
       "nome": "Matheus Petry",
-      "tj": 2,
-      "v": 1,
-      "d": 1,
-      "vSet": 3,
-      "pf": 41,
-      "ps": 47
+      "tj": 0,
+      "v": 0,
+      "d": 0,
+      "vSet": 0,
+      "pf": 0,
+      "ps": 0
     }
   ]
 }
