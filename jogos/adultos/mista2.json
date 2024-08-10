@@ -2,15 +2,15 @@
   "jogos": [
     {
       "nome1": "Lucas Araújo | Elaine Tibcherany",
-      "set1_1": 0,
-      "set2_1": 0,
-      "set3_1": 0,
+      "set1_1": 5,
+      "set2_1": 13,
+      "set3_1": 11,
       "nome2": "Matheus Lamas | Isabelle Feitosa",
-      "set1_2": 0,
-      "set2_2": 0,
-      "set3_2": 0,
-      "sets": 0,
-      "v": 0
+      "set1_2": 11,
+      "set2_2": 11,
+      "set3_2": 7,
+      "sets": 3,
+      "v": 1
     },
     {
       "nome1": "Rafael Pinheiral | Tatiana Calle",

@@ -11,39 +11,39 @@
     },
     {
       "nome": "Gabriel Monteiro",
-      "tj": 2,
+      "tj": 4,
       "v": 0,
-      "d": 2,
+      "d": 4,
       "vSet": 0,
-      "pf": 11,
-      "ps": 44
+      "pf": 39,
+      "ps": 91
     },
     {
       "nome": "João Felipe",
-      "tj": 3,
-      "v": 3,
+      "tj": 4,
+      "v": 4,
       "d": 0,
-      "vSet": 6,
-      "pf": 66,
-      "ps": 22
+      "vSet": 8,
+      "pf": 88,
+      "ps": 27
     },
     {
       "nome": "Matheus Petry",
-      "tj": 2,
-      "v": 0,
-      "d": 2,
-      "vSet": 0,
-      "pf": 16,
-      "ps": 44
+      "tj": 4,
+      "v": 1,
+      "d": 3,
+      "vSet": 2,
+      "pf": 43,
+      "ps": 79
     },
     {
       "nome": "Guilherme Menezes",
-      "tj": 3,
-      "v": 2,
+      "tj": 4,
+      "v": 3,
       "d": 1,
-      "vSet": 4,
-      "pf": 62,
-      "ps": 67
+      "vSet": 6,
+      "pf": 87,
+      "ps": 82
     }
   ]
 }

@@ -14,27 +14,27 @@
     },
     {
       "nome1": "João Felipe | Lívia Ellen",
-      "set1_1": 0,
-      "set2_1": 0,
+      "set1_1": 11,
+      "set2_1": 11,
       "set3_1": 0,
       "nome2": "Felipe Santos | Blenda Nobre",
-      "set1_2": 0,
-      "set2_2": 0,
+      "set1_2": 6,
+      "set2_2": 6,
       "set3_2": 0,
-      "sets": 0,
-      "v": 0
+      "sets": 2,
+      "v": 1
     },
     {
       "nome1": "Gabriel Monteiro | Laryssa Victória",
-      "set1_1": 0,
-      "set2_1": 0,
+      "set1_1": 3,
+      "set2_1": 4,
       "set3_1": 0,
       "nome2": "João Felipe | Lívia Ellen",
-      "set1_2": 0,
-      "set2_2": 0,
+      "set1_2": 11,
+      "set2_2": 11,
       "set3_2": 0,
-      "sets": 0,
-      "v": 0
+      "sets": 2,
+      "v": 2
     }
   ]
 }

@@ -86,39 +86,39 @@
     },
     {
       "nome1": "Gabriel Monteiro",
-      "set1_1": 0,
-      "set2_1": 0,
+      "set1_1": 7,
+      "set2_1": 6,
       "set3_1": 0,
       "nome2": "Matheus Petry",
-      "set1_2": 0,
-      "set2_2": 0,
+      "set1_2": 11,
+      "set2_2": 11,
       "set3_2": 0,
-      "sets": 0,
-      "v": 0
+      "sets": 2,
+      "v": 2
     },
     {
       "nome1": "Guilherme Menezes",
-      "set1_1": 0,
-      "set2_1": 0,
+      "set1_1": 11,
+      "set2_1": 14,
       "set3_1": 0,
       "nome2": "Gabriel Monteiro",
-      "set1_2": 0,
-      "set2_2": 0,
+      "set1_2": 3,
+      "set2_2": 12,
       "set3_2": 0,
-      "sets": 0,
-      "v": 0
+      "sets": 2,
+      "v": 1
     },
     {
       "nome1": "Matheus Petry",
-      "set1_1": 0,
-      "set2_1": 0,
+      "set1_1": 3,
+      "set2_1": 2,
       "set3_1": 0,
       "nome2": "João Felipe",
-      "set1_2": 0,
-      "set2_2": 0,
+      "set1_2": 11,
+      "set2_2": 11,
       "set3_2": 0,
-      "sets": 0,
-      "v": 0
+      "sets": 2,
+      "v": 2
     }
   ]
 }

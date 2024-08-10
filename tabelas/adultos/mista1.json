@@ -2,39 +2,39 @@
   "tabela": [
     {
       "nome": "Alexandre Camacho | Camila Castanho",
-      "tj": 1,
-      "v": 0,
-      "d": 1,
-      "vSet": 0,
-      "pf": 15,
-      "ps": 23
+      "tj": 3,
+      "v": 1,
+      "d": 2,
+      "vSet": 2,
+      "pf": 47,
+      "ps": 69
     },
     {
       "nome": "Daniel Inocencio | Elisa Brito",
-      "tj": 1,
-      "v": 1,
-      "d": 0,
-      "vSet": 2,
-      "pf": 23,
-      "ps": 15
+      "tj": 3,
+      "v": 2,
+      "d": 1,
+      "vSet": 4,
+      "pf": 68,
+      "ps": 68
     },
     {
       "nome": "Gustavo Ferreira | Giovanna Aredes",
-      "tj": 1,
-      "v": 1,
+      "tj": 3,
+      "v": 3,
       "d": 0,
-      "vSet": 2,
-      "pf": 22,
-      "ps": 11
+      "vSet": 6,
+      "pf": 66,
+      "ps": 25
     },
     {
       "nome": "Leando Braga | Rosana Ferreira",
-      "tj": 1,
+      "tj": 3,
       "v": 0,
-      "d": 1,
-      "vSet": 0,
-      "pf": 11,
-      "ps": 22
+      "d": 3,
+      "vSet": 2,
+      "pf": 66,
+      "ps": 85
     }
   ]
 }
