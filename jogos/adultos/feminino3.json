@@ -2,39 +2,39 @@
   "jogos": [
     {
       "nome1": "Elaine Tibcherany",
-      "set1_1": 0,
-      "set2_1": 0,
+      "set1_1": 4,
+      "set2_1": 9,
       "set3_1": 0,
       "nome2": "Rosana R",
-      "set1_2": 0,
-      "set2_2": 0,
+      "set1_2": 11,
+      "set2_2": 11,
       "set3_2": 0,
-      "sets": 0,
-      "v": 0
+      "sets": 2,
+      "v": 2
     },
     {
       "nome1": "Giovanna Aredes",
-      "set1_1": 0,
-      "set2_1": 0,
+      "set1_1": 11,
+      "set2_1": 11,
       "set3_1": 0,
       "nome2": "Elaine Tibcherany",
-      "set1_2": 0,
-      "set2_2": 0,
+      "set1_2": 8,
+      "set2_2": 4,
       "set3_2": 0,
-      "sets": 0,
-      "v": 0
+      "sets": 2,
+      "v": 1
     },
     {
       "nome1": "Rosana R",
-      "set1_1": 0,
-      "set2_1": 0,
+      "set1_1": 5,
+      "set2_1": 6,
       "set3_1": 0,
       "nome2": "Giovanna Aredes",
-      "set1_2": 0,
-      "set2_2": 0,
+      "set1_2": 11,
+      "set2_2": 11,
       "set3_2": 0,
-      "sets": 0,
-      "v": 0
+      "sets": 2,
+      "v": 2
     }
   ]
 }

@@ -2,15 +2,15 @@
   "jogos": [
     {
       "nome1": "Matheus Lamas",
-      "set1_1": 0,
-      "set2_1": 0,
-      "set3_1": 0,
+      "set1_1": 8,
+      "set2_1": 11,
+      "set3_1": 11,
       "nome2": "Leando Braga",
-      "set1_2": 0,
-      "set2_2": 0,
-      "set3_2": 0,
-      "sets": 0,
-      "v": 0
+      "set1_2": 11,
+      "set2_2": 4,
+      "set3_2": 6,
+      "sets": 3,
+      "v": 1
     },
     {
       "nome1": "Rafael Pinheiral",
@@ -18,47 +18,47 @@
       "set2_1": 0,
       "set3_1": 0,
       "nome2": "Lucas Araújo",
-      "set1_2": 0,
-      "set2_2": 0,
+      "set1_2": 11,
+      "set2_2": 11,
       "set3_2": 0,
-      "sets": 0,
-      "v": 0
+      "sets": 2,
+      "v": 2
     },
     {
       "nome1": "Leando Braga",
-      "set1_1": 0,
-      "set2_1": 0,
+      "set1_1": 11,
+      "set2_1": 11,
       "set3_1": 0,
       "nome2": "Rafael Pinheiral",
       "set1_2": 0,
       "set2_2": 0,
       "set3_2": 0,
-      "sets": 0,
-      "v": 0
+      "sets": 2,
+      "v": 1
     },
     {
       "nome1": "Lucas Araújo",
-      "set1_1": 0,
-      "set2_1": 0,
+      "set1_1": 11,
+      "set2_1": 11,
       "set3_1": 0,
       "nome2": "Matheus Lamas",
-      "set1_2": 0,
-      "set2_2": 0,
+      "set1_2": 6,
+      "set2_2": 2,
       "set3_2": 0,
-      "sets": 0,
-      "v": 0
+      "sets": 2,
+      "v": 1
     },
     {
       "nome1": "Lucas Araújo",
-      "set1_1": 0,
-      "set2_1": 0,
+      "set1_1": 11,
+      "set2_1": 11,
       "set3_1": 0,
       "nome2": "Leando Braga",
-      "set1_2": 0,
-      "set2_2": 0,
+      "set1_2": 4,
+      "set2_2": 6,
       "set3_2": 0,
-      "sets": 0,
-      "v": 0
+      "sets": 2,
+      "v": 1
     },
     {
       "nome1": "Rafael Pinheiral",
@@ -66,11 +66,11 @@
       "set2_1": 0,
       "set3_1": 0,
       "nome2": "Matheus Lamas",
-      "set1_2": 0,
-      "set2_2": 0,
+      "set1_2": 11,
+      "set2_2": 11,
       "set3_2": 0,
-      "sets": 0,
-      "v": 0
+      "sets": 2,
+      "v": 2
     }
   ]
 }

@@ -2,39 +2,39 @@
   "jogos": [
     {
       "nome1": "Laryssa Victória",
-      "set1_1": 0,
-      "set2_1": 0,
+      "set1_1": 4,
+      "set2_1": 3,
       "set3_1": 0,
       "nome2": "Lívia Ellen",
-      "set1_2": 0,
-      "set2_2": 0,
+      "set1_2": 11,
+      "set2_2": 2,
       "set3_2": 0,
-      "sets": 0,
-      "v": 0
+      "sets": 2,
+      "v": 2
     },
     {
       "nome1": "Blenda Nobre",
-      "set1_1": 0,
-      "set2_1": 0,
+      "set1_1": 11,
+      "set2_1": 12,
       "set3_1": 0,
       "nome2": "Laryssa Victória",
-      "set1_2": 0,
-      "set2_2": 0,
+      "set1_2": 5,
+      "set2_2": 10,
       "set3_2": 0,
-      "sets": 0,
-      "v": 0
+      "sets": 2,
+      "v": 1
     },
     {
       "nome1": "Lívia Ellen",
-      "set1_1": 0,
-      "set2_1": 0,
+      "set1_1": 11,
+      "set2_1": 12,
       "set3_1": 0,
       "nome2": "Blenda Nobre",
-      "set1_2": 0,
-      "set2_2": 0,
+      "set1_2": 5,
+      "set2_2": 10,
       "set3_2": 0,
-      "sets": 0,
-      "v": 0
+      "sets": 2,
+      "v": 1
     }
   ]
 }

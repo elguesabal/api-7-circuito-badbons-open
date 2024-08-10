@@ -2,30 +2,30 @@
   "tabela": [
     {
       "nome": "Lucas Araújo | Elaine Tibcherany",
-      "tj": 0,
-      "v": 0,
+      "tj": 1,
+      "v": 1,
       "d": 0,
-      "vSet": 0,
-      "pf": 0,
+      "vSet": 2,
+      "pf": 22,
       "ps": 0
     },
     {
       "nome": "Matheus Lamas | Isabelle Feitosa",
-      "tj": 0,
-      "v": 0,
+      "tj": 1,
+      "v": 1,
       "d": 0,
-      "vSet": 0,
-      "pf": 0,
+      "vSet": 2,
+      "pf": 22,
       "ps": 0
     },
     {
       "nome": "Rafael Pinheiral | Tatiana Calle",
-      "tj": 0,
+      "tj": 2,
       "v": 0,
-      "d": 0,
+      "d": 2,
       "vSet": 0,
       "pf": 0,
-      "ps": 0
+      "ps": 44
     }
   ]
 }

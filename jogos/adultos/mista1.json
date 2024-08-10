@@ -2,27 +2,27 @@
   "jogos": [
     {
       "nome1": "Daniel Inocencio | Elisa Brito",
-      "set1_1": 0,
-      "set2_1": 0,
+      "set1_1": 12,
+      "set2_1": 11,
       "set3_1": 0,
       "nome2": "Alexandre Camacho | Camila Castanho",
-      "set1_2": 0,
-      "set2_2": 0,
+      "set1_2": 10,
+      "set2_2": 5,
       "set3_2": 0,
-      "sets": 0,
-      "v": 0
+      "sets": 2,
+      "v": 1
     },
     {
       "nome1": "Gustavo Ferreira | Giovanna Aredes",
-      "set1_1": 0,
-      "set2_1": 0,
+      "set1_1": 11,
+      "set2_1": 11,
       "set3_1": 0,
       "nome2": "Leando Braga | Rosana Ferreira",
-      "set1_2": 0,
-      "set2_2": 0,
+      "set1_2": 3,
+      "set2_2": 8,
       "set3_2": 0,
-      "sets": 0,
-      "v": 0
+      "sets": 2,
+      "v": 1
     },
     {
       "nome1": "Alexandre Camacho | Camila Castanho",

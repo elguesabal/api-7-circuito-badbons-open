@@ -50,7 +50,16 @@ app.put("/adm/jogos/:categoria/:modalidade", async (req, res) => {
 });
 
 
-app.listen(process.env.PORT || 3000, () => console.log("Servidor online"));
+// app.listen(process.env.PORT || 3000, () => console.log("Servidor online"));
+app.listen(process.env.PORT || 3000, () => {
+	const currentDate = new Date();
+	const hora = currentDate.getHours();
+	const minuto = currentDate.getMinutes();
+	const segundo = currentDate.getSeconds();
+
+	console.log(`Servidor online as: ${hora}:${minuto}:${segundo}`);
+});
+
 
 // LINK DO PARANAUE
 // https://api-7-circuito-badbons-open.onrender.com/

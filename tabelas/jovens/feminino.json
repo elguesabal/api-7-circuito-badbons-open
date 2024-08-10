@@ -2,30 +2,30 @@
   "tabela": [
     {
       "nome": "Laryssa Victória",
-      "tj": 0,
+      "tj": 2,
       "v": 0,
-      "d": 0,
+      "d": 2,
       "vSet": 0,
-      "pf": 0,
-      "ps": 0
+      "pf": 22,
+      "ps": 36
     },
     {
       "nome": "Lívia Ellen",
-      "tj": 0,
-      "v": 0,
+      "tj": 2,
+      "v": 2,
       "d": 0,
-      "vSet": 0,
-      "pf": 0,
-      "ps": 0
+      "vSet": 4,
+      "pf": 36,
+      "ps": 22
     },
     {
       "nome": "Blenda Nobre",
-      "tj": 0,
-      "v": 0,
-      "d": 0,
-      "vSet": 0,
-      "pf": 0,
-      "ps": 0
+      "tj": 2,
+      "v": 1,
+      "d": 1,
+      "vSet": 2,
+      "pf": 38,
+      "ps": 38
     }
   ]
 }

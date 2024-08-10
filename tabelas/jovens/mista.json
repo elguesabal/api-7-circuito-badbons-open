@@ -1,22 +1,22 @@
 {
   "tabela": [
     {
-      "nome": "Felipe Santos | Mariana Vitória",
-      "tj": 0,
-      "v": 0,
+      "nome": "Felipe Santos | Blenda Nobre",
+      "tj": 1,
+      "v": 1,
       "d": 0,
-      "vSet": 0,
-      "pf": 0,
-      "ps": 0
+      "vSet": 2,
+      "pf": 22,
+      "ps": 9
     },
     {
       "nome": "Gabriel Monteiro | Laryssa Victória",
-      "tj": 0,
+      "tj": 1,
       "v": 0,
-      "d": 0,
+      "d": 1,
       "vSet": 0,
-      "pf": 0,
-      "ps": 0
+      "pf": 9,
+      "ps": 22
     },
     {
       "nome": "João Felipe | Lívia Ellen",

@@ -2,30 +2,30 @@
   "tabela": [
     {
       "nome": "Elaine Tibcherany",
-      "tj": 0,
+      "tj": 2,
       "v": 0,
-      "d": 0,
+      "d": 2,
       "vSet": 0,
-      "pf": 0,
-      "ps": 0
+      "pf": 25,
+      "ps": 44
     },
     {
       "nome": "Rosana R",
-      "tj": 0,
-      "v": 0,
-      "d": 0,
-      "vSet": 0,
-      "pf": 0,
-      "ps": 0
+      "tj": 2,
+      "v": 1,
+      "d": 1,
+      "vSet": 2,
+      "pf": 33,
+      "ps": 35
     },
     {
       "nome": "Giovanna Aredes",
-      "tj": 0,
-      "v": 0,
+      "tj": 2,
+      "v": 2,
       "d": 0,
-      "vSet": 0,
-      "pf": 0,
-      "ps": 0
+      "vSet": 4,
+      "pf": 44,
+      "ps": 23
     }
   ]
 }

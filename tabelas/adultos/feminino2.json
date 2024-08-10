@@ -2,30 +2,30 @@
   "tabela": [
     {
       "nome": "Elisa Brito",
-      "tj": 0,
-      "v": 0,
+      "tj": 2,
+      "v": 2,
       "d": 0,
-      "vSet": 0,
-      "pf": 0,
-      "ps": 0
+      "vSet": 4,
+      "pf": 51,
+      "ps": 26
     },
     {
       "nome": "Tatiana Calle",
-      "tj": 0,
+      "tj": 2,
       "v": 0,
-      "d": 0,
+      "d": 2,
       "vSet": 0,
       "pf": 0,
-      "ps": 0
+      "ps": 44
     },
     {
       "nome": "Isabelle Feitosa",
-      "tj": 0,
-      "v": 0,
-      "d": 0,
-      "vSet": 0,
-      "pf": 0,
-      "ps": 0
+      "tj": 2,
+      "v": 1,
+      "d": 1,
+      "vSet": 3,
+      "pf": 48,
+      "ps": 29
     }
   ]
 }
