@@ -50,7 +50,7 @@ app.put("/adm/jogos/:categoria/:modalidade", async (req, res) => {
 });
 
 
-// app.listen(process.env.PORT || 3000, () => console.log("Servidor online"));
+
 app.listen(process.env.PORT || 3000, () => {
 	const currentDate = new Date();
 	const hora = currentDate.getHours();
